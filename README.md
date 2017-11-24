@@ -6,7 +6,7 @@ The X-NUCLEO-IDB05A1 is compatible with the ST Morpho and Arduino UNO R3 connect
 microcontroller via the SPI pin, and the user can change the default SPI clock, the SPI chip select and 
 SPI IRQ by changing one resistor on the evaluation board.
 
-# Examples
+## Examples
 
 There are several examples with the X-NUCLEO-IDB05A1 library.
 * X_NUCLEO_IDB05A1_HelloWorld: This application provides a simple example of usage of the X-NUCLEO-IDB05A1 
@@ -15,7 +15,7 @@ Expansion Board. For testing the sketch, you can download on the playstore the "
 You can test this application by connecting it with your smartphone. On Android, donwload any Beacon Scanner Apps 
 (e.g. iBeacon & Eddystone Scanner by flurp laboratories https://play.google.com/store/apps/details?id=de.flurp.beaconscanner.app).
 
-# Dependencies
+## Dependencies
 
 The X-NUCLEO-IDB05A1 library requires the following STM32duino library:
 
